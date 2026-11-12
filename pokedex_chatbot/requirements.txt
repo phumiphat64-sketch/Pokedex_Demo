@@ -1,0 +1,8 @@
+pandas>=2.0
+streamlit>=1.35
+plotly>=5.20
+rapidfuzz>=3.0
+
+# --- Optional extras (install only if you use them) ---
+# ollama>=0.4                   # Option 2: local LLM (also requires the separate Ollama app)
+# sentence-transformers>=3.0    # optional semantic intent matching for Option 1
